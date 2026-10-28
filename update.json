@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "notes": "- First Windows release of Valet with watched folder rules, previews, activity and undo.\n- Three-day trial and Polar license activation.\n- Custom folder picker, settings, and signed update support.",
+  "pub_date": "2026-10-28T20:05:24.239Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/Elixir-Piloting/Valet-releases/releases/download/v0.1.0/Valet-x64.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVFBsTDZ2Ny9SaUZhVU40cEVySzVyVFFtNHRPQ3VWZVR1L29tcGI0V2s1ZkEvNDhqL0ZOSjN5VE4zSnIwdk5NUnpNTXdTRytubXd3bUcyL2xXYjR2ZFdCeG1PQ2ZnSVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjE3ODMyCWZpbGU6VmFsZXRfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCndSVzVlMVNpMFhpVVJGVWJoaDhITEZFRmdTRVFXaXVpZlhTODdTSkNKZHpuSnJtcEdhSEhjcFhhck9lUTRHSTJYSW1PS1I3ckZycTJieDBSdFcyaEJ3PT0K"
+    }
+  },
+  "releases": [
+    {
+      "version": "0.1.0",
+      "notes": "- First Windows release of Valet with watched folder rules, previews, activity and undo.\n- Three-day trial and Polar license activation.\n- Custom folder picker, settings, and signed update support.",
+      "pub_date": "2026-10-28T20:05:24.239Z"
+    }
+  ]
+}
